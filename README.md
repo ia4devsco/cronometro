@@ -9,7 +9,7 @@ El objetivo de este ejercicio es crear un cronómetro funcional utilizando HTML,
    - Debes crear un archivo `index.html`, un archivo `styles.css`, y un archivo `script.js`.
    - Estructura básica del proyecto:
      ```
-     project-root/
+     root/
      ├── index.html
      ├── styles.css
      └── script.js
